@@ -1,10 +1,15 @@
-// Java program to demonstrate operations with arrays
 package com.array;
 
-
-// Main class
+/**
+ * Java program to demonstrate operations with arrays
+ *
+ * @autor Julia Marushchenko
+ * @version 1.0
+ * @since 2025-05-04
+ */
 public class Main {
 
+    // Method main to run java program
     public static void main(String [] str){
 
         // Universal initialization without " = " als in C++ does not work
